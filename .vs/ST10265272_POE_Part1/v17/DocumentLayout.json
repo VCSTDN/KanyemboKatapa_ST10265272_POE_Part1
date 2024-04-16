@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanye\\OneDrive - ADvTECH Ltd\\ST10265272_POE_Part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE25946-D5D9-46AF-98EF-34BBDCF78E7D}|ST10265272_POE_Part1.csproj|c:\\users\\kanye\\onedrive - advtech ltd\\st10265272_poe_part1\\printutil\\prinutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE25946-D5D9-46AF-98EF-34BBDCF78E7D}|ST10265272_POE_Part1.csproj|solutionrelative:printutil\\prinutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE25946-D5D9-46AF-98EF-34BBDCF78E7D}|ST10265272_POE_Part1.csproj|c:\\users\\kanye\\onedrive - advtech ltd\\st10265272_poe_part1\\model\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE25946-D5D9-46AF-98EF-34BBDCF78E7D}|ST10265272_POE_Part1.csproj|solutionrelative:model\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE25946-D5D9-46AF-98EF-34BBDCF78E7D}|ST10265272_POE_Part1.csproj|c:\\users\\kanye\\onedrive - advtech ltd\\st10265272_poe_part1\\model\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE25946-D5D9-46AF-98EF-34BBDCF78E7D}|ST10265272_POE_Part1.csproj|solutionrelative:model\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE25946-D5D9-46AF-98EF-34BBDCF78E7D}|ST10265272_POE_Part1.csproj|c:\\users\\kanye\\onedrive - advtech ltd\\st10265272_poe_part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE25946-D5D9-46AF-98EF-34BBDCF78E7D}|ST10265272_POE_Part1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrinUtil.cs",
+              "DocumentMoniker": "C:\\Users\\kanye\\OneDrive - ADvTECH Ltd\\ST10265272_POE_Part1\\PrintUtil\\PrinUtil.cs",
+              "RelativeDocumentMoniker": "PrintUtil\\PrinUtil.cs",
+              "ToolTip": "C:\\Users\\kanye\\OneDrive - ADvTECH Ltd\\ST10265272_POE_Part1\\PrintUtil\\PrinUtil.cs",
+              "RelativeToolTip": "PrintUtil\\PrinUtil.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:09:05.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\kanye\\OneDrive - ADvTECH Ltd\\ST10265272_POE_Part1\\Model\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Model\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\kanye\\OneDrive - ADvTECH Ltd\\ST10265272_POE_Part1\\Model\\Ingredient.cs",
+              "RelativeToolTip": "Model\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:07:42.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\kanye\\OneDrive - ADvTECH Ltd\\ST10265272_POE_Part1\\Model\\Recipe.cs",
+              "RelativeDocumentMoniker": "Model\\Recipe.cs",
+              "ToolTip": "C:\\Users\\kanye\\OneDrive - ADvTECH Ltd\\ST10265272_POE_Part1\\Model\\Recipe.cs",
+              "RelativeToolTip": "Model\\Recipe.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAcwAcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:07:42.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanye\\OneDrive - ADvTECH Ltd\\ST10265272_POE_Part1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kanye\\OneDrive - ADvTECH Ltd\\ST10265272_POE_Part1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:07:42.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
